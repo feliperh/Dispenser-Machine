@@ -1,0 +1,13 @@
+vistas\VistaAdministrador.class
+vistas\VistaPrincipal.class
+administradores\AdministradorDeProducto.class
+vo\Maquina.class
+aplicacion\App.class
+vo\Arca.class
+vo\Espiral.class
+vistas\VistaCliente.class
+controladores\ControladorAdministrador.class
+administradores\AdministradorDeEspirales.class
+herramientas\IOUsuario.class
+controladores\ControladorCliente.class
+vo\Producto.class
